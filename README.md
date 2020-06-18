@@ -41,6 +41,3 @@ In the paper, we used data from 5 source and 4 target datasets:
     - dataset (Datasplit for Caltech256)
     - domain (visual domain distance & label similarity)
 ```
-
-# SSL-TL
-# SSL-TL
