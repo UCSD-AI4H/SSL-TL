@@ -3,7 +3,7 @@ Pytorch code and models for paper
 
 **Transfer Learning or Self-supervised Learning? A Tale of Two Pretraining Paradigms**
 
-*Xingyi Yang∗, Xuehai He∗,Yuxiao Liang, Yue Yang, Shanghang Zhang, Pengtao Xie*
+*Xingyi Yang∗, Xuehai He∗,Yuxiao Liang, Yue Yang, Shanghang Zhang, Pengtao Xie* *Equally contributed
 
 This repository contains code and pre-trained models used in the paper and 2 demos to demonstrate:
 1) Code for a comprehensive study between SSL and TL regarding which one works better under
