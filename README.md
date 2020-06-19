@@ -1,7 +1,9 @@
 # Transfer Learning or Self-supervised Learning? A Tale of Two Pretraining Paradigms
 Pytorch code and models for paper
 
-Transfer Learning or Self-supervised Learning? A Tale of Two Pretraining Paradigms
+**Transfer Learning or Self-supervised Learning? A Tale of Two Pretraining Paradigms**
+
+*Xingyi Yang∗, Xuehai He∗,Yuxiao Liang, Yue Yang, Shanghang Zhang, Pengtao Xie*
 
 This repository contains code and pre-trained models used in the paper and 2 demos to demonstrate:
 1) Code for a comprehensive study between SSL and TL regarding which one works better under
@@ -41,3 +43,6 @@ In the paper, we used data from 5 source and 4 target datasets:
     - dataset (Datasplit for Caltech256)
     - domain (visual domain distance & label similarity)
 ```
+
+## Reference
+1. MoCo: https://github.com/facebookresearch/moco
